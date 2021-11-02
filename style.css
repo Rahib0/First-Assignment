@@ -1,0 +1,56 @@
+body{
+	background-color: palegreen;
+}
+
+span{
+    text-decoration: line-through;
+}
+
+div{
+	background-color: brown;
+	text-align: center;
+	max-width: 75%;
+	margin: 10px auto;
+}
+
+h1{
+    text-decoration-line: underline;
+    font-size: 48px;
+    font-family: Arial, Helvetica, sans-serif;
+	color: tomato;
+}
+
+#futureproof-logo{
+    display: block;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    max-width: 500px;
+}
+
+#pointless-button{
+	background-color: #73c7eb;
+	border: double black;
+	color: #eeeeee;
+	padding: 10px 5px;
+	text-align: center;
+	font-size: 20px;
+}
+
+textarea{
+	width: 82%;
+	margin: 2px 0px;
+	resize: none;
+	background-color: cyan;
+}
+
+p{
+	font-size: 20px;
+	color: yellowgreen;
+
+}
+
+textarea:hover{
+	background-color: violet;
+}
